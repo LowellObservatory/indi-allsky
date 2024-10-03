@@ -43,7 +43,7 @@ is-safe-url
 certifi >= 2024.7.4
 # https://www.piwheels.org/project/cryptography/
 # 40.0.1 vulnerable https://security.snyk.io/package/pip/cryptography
-cryptography == 40.0.1
+cryptography == 43.0.1
 dbus-python
 paho-mqtt >= 2.0.0
 setuptools-rust

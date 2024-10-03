@@ -43,7 +43,7 @@ is-safe-url
 certifi >= 2023.5.7
 # https://www.piwheels.org/project/cryptography/
 # segfault in newer versions
-cryptography == 37.0.4
+cryptography == 43.0.1
 dbus-python
 paho-mqtt >= 2.0.0
 setuptools-rust
